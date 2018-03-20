@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Scrum 基本介紹](README.md)
+* [Scrum 運作流程](chapter1.md)
+
