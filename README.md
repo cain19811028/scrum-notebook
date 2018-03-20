@@ -2,3 +2,6 @@
 
 
 
+
+
+## Another perspective on SCRUM
