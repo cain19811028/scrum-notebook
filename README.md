@@ -1,3 +1,7 @@
+# Scrum 權威指南
+
+繁體中文版：[https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf)
+
 # Scrum 基本介紹
 
 ## 3 個 Scrum 角色
